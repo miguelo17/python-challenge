@@ -1,0 +1,5 @@
+Total Months: 86
+Total Net is: $22564198
+Average Change: $8311.105882352942
+Greatest increase in Profits: 1825558
+Greatest decrease in Profits: -1862002
